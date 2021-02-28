@@ -23,3 +23,5 @@ I made 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
 [website]: https://pixelpajamastudios.com/fedellen.html
 [twitter]: https://twitter.com/fedellen
 [linkedin]: https://www.linkedin.com/in/derek-sonnenberg-5b47991b6/
+[sonarSmash]: https://pixelpajamastudios.com/sonarsmash.html
+[astralDefense]: https://pixelpajamastudios.com/astraldefense.html
