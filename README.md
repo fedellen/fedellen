@@ -5,13 +5,12 @@
 <!--
 **fedellen/fedellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on List Together, a sharable grocery list app for families
 - 🌱 I’m currently learning TypeScript and React
 - 👯 I’m looking to collaborate on Game Development
 - 💬 Ask me about Indie Games, and TypeScript 🔥
-- 📫 How to reach me: [@fedellen] on Twitter or `fedellen  @  pixelpajamastudios(DOT)com`
+- 📫 How to reach me: [@fedellen][twitter] on Twitter or `fedellen  @  pixelpajamastudios(DOT)com`
 - 😄 Pronouns: He/him
 
 I made 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
