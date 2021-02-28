@@ -6,12 +6,13 @@
 **fedellen/fedellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on List Together, a sharable grocery list app for families
+- 🔭 I’m currently working on [List Together][listTogether], a sharable grocery list app for families
 - 🌱 I’m currently learning TypeScript and React
-- 👯 I’m looking to collaborate on Game Development
-- 💬 Ask me about Indie Games, and TypeScript 🔥
-- 📫 How to reach me: [@fedellen][twitter] on Twitter or `fedellen  @  pixelpajamastudios(DOT)com`
-- 😄 Pronouns: He/him
+- 👯 I’m looking to collaborate on Game Development, lets hear your ideas!
+- 💬 Ask me about Indie Games, Pixel Art, and TypeScript 🔥
+- 📫 How to reach me: `fedellen#5443` on Discord [@fedellen][twitter] on Twitter or `fedellen  @  pixelpajamastudios(DOT)com` 
+
+#### 👨🏼‍💻 Actively searching for remote employment and/or freelance opportunities
 
 I made 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
 
@@ -24,3 +25,4 @@ I made 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
 [linkedin]: https://www.linkedin.com/in/derek-sonnenberg-5b47991b6/
 [sonarSmash]: https://pixelpajamastudios.com/sonarsmash.html
 [astralDefense]: https://pixelpajamastudios.com/astraldefense.html
+[listTogether]: https://github.com/fedellen/list-together
