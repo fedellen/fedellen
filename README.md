@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm fedellen, dad, software developer, and indie game dev
+#### I'm fedellen -- dad, software developer, and indie game dev
 
 <!--
 **fedellen/fedellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
