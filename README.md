@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm fedellen -- dad, software developer, and indie game dev
+#### I'm fedellen -- dad, software engineer, and indie game developer
 
 <!--
 **fedellen/fedellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@
 
 #### 👨🏼‍💻 Actively searching for remote employment and/or freelance opportunities!
 
-I made 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
+I made 🗒[List Together][listTogether] 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
