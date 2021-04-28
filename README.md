@@ -13,7 +13,7 @@
 
 #### 👨🏼‍💻 Actively searching for remote employment and/or freelance opportunities!
 
-I made 🗒[List Together][listTogether] 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
+I made 🗒[List Together][listTogether] | 🐬[Sonar Smash][sonarSmash] | ☄[Astral Defense][astralDefense]
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
