@@ -6,14 +6,14 @@
 **fedellen/fedellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on redeveloping our website, [Pixel Pajama Studios][pixelPajamaStudios], and a fun little [Mars Photo React App][marsPhotoApp]
+- 🔭 I’m currently working on a fun little [Mars Photo React App][marsPhotoApp]
 - 👯 I’m looking to collaborate on game development and interesting web apps, lets hear your ideas!
 - 💬 Ask me about Indie Games, Pixel Art, React, and TypeScript 🔥
 - 📫 How to reach me => Discord: `fedellen#5443` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(DOT)com` 
 
 #### Actively searching for remote employment and/or freelance opportunities! Looking for more projects to build 🔨
 
-My apps: 
+My apps/games: 
 🗒 [List Together][listTogether] **|** 🐬 [Sonar Smash][sonarSmash] **|** ☄ [Astral Defense][astralDefense]
 
 More links:
