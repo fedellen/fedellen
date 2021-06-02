@@ -11,8 +11,6 @@
 - 💬 Ask me about Indie Games, Pixel Art, React, and TypeScript 🔥
 - 📫 How to reach me => Discord: `fedellen#5443` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(DOT)com` 
 
-#### Actively searching for remote employment and/or freelance opportunities! Looking for more projects to build 🔨
-
 My apps/games: 
 🗒 [List Together][listTogether] **|** 🐬 [Sonar Smash][sonarSmash] **|** ☄ [Astral Defense][astralDefense]
 
