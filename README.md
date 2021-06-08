@@ -1,29 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-#### I'm Derek Sonnenberg -- dad, software engineer, and indie game developer.
+I'm Derek Sonnenberg -- Dad, software engineer, indie game developer, and co-founder of [Pixel Pajama Studios][pixelPajamaStudios]
 
-<!--
-**fedellen/fedellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m currently working on a fun little [Mars Photo React App][marsPhotoApp]
-- 👯 I’m looking to collaborate on game development and interesting web apps, lets hear your ideas!
+- 👩‍💻 I’m currently working on [ArDrive][arDrive] as a Full Stack Developer
+- 🎹 My hobbies include piano, jumping on the trampoline, cooking, and making games
+- 📖 Currently learning as much as I can about Electron and Arweave
 - 💬 Ask me about Indie Games, Pixel Art, React, and TypeScript 🔥
 - 📫 How to reach me => Discord: `fedellen#5443` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(DOT)com` 
 
 My apps/games: 
-🗒 [List Together][listTogether] **|** 🐬 [Sonar Smash][sonarSmash] **|** ☄ [Astral Defense][astralDefense]
+- 🗒 [List Together][listTogether] 
+- 🐬 [Sonar Smash][sonarSmash] 
+- 📷 [Mars Photo App][marsPhotoApp]
+- ☄ [Astral Defense][astralDefense]
 
-More links:
+Some links:
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
 [website]: https://pixelpajamastudios.com/fedellen.html
+[ArDrive]: https://github.com/ardriveapp
+[pixelPajamaStudios]: https://pixelpajamastudios.com
+
 [twitter]: https://twitter.com/fedellen
 [linkedin]: https://www.linkedin.com/in/derek-sonnenberg-5b47991b6/
+
 [sonarSmash]: https://pixelpajamastudios.com/sonarsmash.html
 [astralDefense]: https://pixelpajamastudios.com/astraldefense.html
 [listTogether]: https://github.com/fedellen/list-together
-[pixelPajamaStudios]: https://pixelpajamastudios.com
 [marsPhotoApp]: https://github.com/fedellen/react-mars-photo-app
