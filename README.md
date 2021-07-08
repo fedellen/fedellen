@@ -2,7 +2,7 @@
 
 I'm Derek Sonnenberg -- Dad, software engineer, indie game developer, and co-founder of [Pixel Pajama Studios][pixelPajamaStudios]
 
-- 👩‍💻 I’m currently working on [ArDrive][arDrive] as a Full Stack Developer
+- 👩‍💻 I’m currently working at [ArDrive][arDrive] as a Software Engineer
 - 🎹 My hobbies include piano, jumping on the trampoline, cooking, and making games
 - 📖 Currently learning as much as I can about Electron and Arweave
 - 💬 Ask me about Indie Games, Pixel Art, React, and TypeScript 🔥
