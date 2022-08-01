@@ -2,11 +2,11 @@
 
 I'm Derek Sonnenberg -- Dad, software engineer, indie game developer, and co-founder of [Pixel Pajama Studios][pixelPajamaStudios]
 
-- 👩‍💻 I’m currently working at [ArDrive][arDrive] as a Software Engineer
-- 🎹 My hobbies include piano, jumping on the trampoline, cooking, and making games
-- 📖 Currently learning as much as I can about Electron and Arweave
-- 💬 Ask me about Indie Games, Pixel Art, React, and TypeScript 🔥
-- 📫 How to reach me => Discord: `fedellen#5443` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(DOT)com` 
+- 👩‍💻 I’m currently working at [ArDrive][arDrive] as a Software Engineer (ArDrive Contact: `derek @ ardrive(D-O-T)com`
+- 🎹 My hobbies include piano, playing with my son, bicycling, cooking, and making games
+- 📖 Currently learning as much as I can about AWS Micro-Service Infrastructure, Terraform and 
+- 💬 Ask me about Indie Games, Pixel Art, TypeScript, React, Node.js, and Arweave
+- 📫 How to reach me => Discord: `fedellen#5443` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(D-O-T)com` 
 
 My apps/games: 
 - 🗒 [List Together][listTogether] 
