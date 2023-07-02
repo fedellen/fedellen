@@ -1,12 +1,11 @@
 # Hi there 👋
 
-I'm Derek Sonnenberg -- Dad, software engineer, indie game developer, and co-founder of [Pixel Pajama Studios][pixelPajamaStudios]
+I'm Derek Sonnenberg -- dad, software engineer, indie game developer, and co-founder of [Pixel Pajama Studios][pixelPajamaStudios]
 
-- 👩‍💻 I’m currently working at [ArDrive][arDrive] as a Software Engineer (ArDrive Contact: `derek @ ardrive(D-O-T)com`
+- 👩‍💻 I’m currently working at [ar.io][ario] as a Software Engineer (ario Contact: `derek @ ario(D-O-T)com`)
 - 🎹 My hobbies include piano, playing with my son, bicycling, cooking, and making games
-- 📖 Currently learning as much as I can about AWS Micro-Service Infrastructure, Terraform and 
-- 💬 Ask me about Indie Games, Pixel Art, TypeScript, React, Node.js, and Arweave
-- 📫 How to reach me => Discord: `fedellen#5443` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(D-O-T)com` 
+- 💬 Ask me about Indie Games, Pixel Art, TypeScript, React, Node.js, Terraform, AWS Infrastructure, and Arweave
+- 📫 How to reach me => Discord: `fedellen` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(D-O-T)com` 
 
 My apps/games: 
 - 🗒 [List Together][listTogether] 
@@ -20,7 +19,7 @@ Some links:
 👔 [linkedin][linkedin]
 
 [website]: https://pixelpajamastudios.com/fedellen.html
-[ArDrive]: https://github.com/ardriveapp
+[ario]: https://github.com/ar-io
 [pixelPajamaStudios]: https://pixelpajamastudios.com
 
 [twitter]: https://twitter.com/fedellen
