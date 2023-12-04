@@ -2,9 +2,9 @@
 
 I'm Derek Sonnenberg -- dad, software engineer, indie game developer, and co-founder of [Pixel Pajama Studios][pixelPajamaStudios]
 
-- 👩‍💻 I’m currently working at [ar.io][ario] as a Software Engineer (ario Contact: `derek @ ario(D-O-T)com`)
+- 👩‍💻 I’m currently working at [PDS][ario] as a Software Engineer (ario Contact: `derek @ pds(D-O-T)inc`)
 - 🎹 My hobbies include piano, playing with my son, bicycling, cooking, and making games
-- 💬 Ask me about Indie Games, Pixel Art, TypeScript, React, Node.js, Terraform, AWS Infrastructure, and Arweave
+- 💬 Ask me about Indie Games, Pixel Art, TypeScript, React, Node.js, Terraform, AWS Cloud Infrastructure, and Arweave
 - 📫 How to reach me => Discord: `fedellen` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(D-O-T)com` 
 
 My apps/games: 
