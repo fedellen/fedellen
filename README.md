@@ -14,7 +14,7 @@ Personal apps/games:
 - ☄ [Astral Defense][astralDefense]
 
 Professional products/protocols I've collaborated on:
-- [Turbo][turbo]
+- [Turbo](https//turbo.ar.io)
 - [Ar.io][ario]
 - [ArDrive][arDrive]
 
@@ -25,7 +25,7 @@ Some links:
 
 [website]: https://pixelpajamastudios.com/fedellen.html
 [ario]: https://ar.io
-[turbo]: https//turbo.ar.io
+
 [ardrive]: https://ardrive.io
 [pixelPajamaStudios]: https://pixelpajamastudios.com
 
@@ -36,3 +36,5 @@ Some links:
 [astralDefense]: https://pixelpajamastudios.com/astraldefense.html
 [listTogether]: https://github.com/fedellen/list-together
 [marsPhotoApp]: https://github.com/fedellen/react-mars-photo-app
+
+[turbo]: https//turbo.ar.io
