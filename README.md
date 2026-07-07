@@ -1,17 +1,22 @@
 # Hi there 👋
 
-I'm Derek Sonnenberg -- dad, software engineer, indie game developer, and co-founder of [Pixel Pajama Studios][pixelPajamaStudios]
+I'm Derek Sonnenberg -- dad, software engineer, indie game developer, co-founder of [Pixel Pajama Studios][pixelPajamaStudios], and former SSE at [Ar.io][ario]
 
-- 👩‍💻 I’m currently working at [PDS][ario] as a Senior Software Engineer (PDS Contact: `derek @ pds(D-O-T)inc`)
+- 👩‍💻 I’m currently looking for work and tinkering with side projects; both game dev and software
 - 🎹 My hobbies include piano, playing with my son, bicycling, cooking, and making games
 - 💬 Ask me about Indie Games, Pixel Art, TypeScript, React, Node.js, Terraform, AWS Cloud Infrastructure, and Arweave
 - 📫 How to reach me => Discord: `fedellen` **|** Twitter: [@fedellen][twitter] **|** E-mail: `fedellen  @  pixelpajamastudios(D-O-T)com` 
 
-My apps/games: 
+Personal apps/games: 
 - 🗒 [List Together][listTogether] 
 - 🐬 [Sonar Smash][sonarSmash] 
 - 📷 [Mars Photo App][marsPhotoApp]
 - ☄ [Astral Defense][astralDefense]
+
+Professional products/protocols I've collaborated on:
+- [Turbo][turbo]
+- [Ar.io][ario]
+- [ArDrive][arDrive]
 
 Some links:
 🏡 [website][website] **|** 
@@ -19,7 +24,9 @@ Some links:
 👔 [linkedin][linkedin]
 
 [website]: https://pixelpajamastudios.com/fedellen.html
-[ario]: https://github.com/ar-io
+[ario]: https://ar.io
+[turbo]: https//turbo.ar.io
+[ardrive]: https://ardrive.io
 [pixelPajamaStudios]: https://pixelpajamastudios.com
 
 [twitter]: https://twitter.com/fedellen
